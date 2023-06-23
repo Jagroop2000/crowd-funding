@@ -1,5 +1,5 @@
 require("@matterlabs/hardhat-zksync-solc");
-
+// 9fd556208e26f5635dc5d0d399595beabf6118664a587b8321903cd8fa29352c
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
   zksolc: {
